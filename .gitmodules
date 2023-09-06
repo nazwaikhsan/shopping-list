@@ -1,0 +1,3 @@
+[submodule "shopping-list"]
+	path = shopping-list
+	url = https://github.com/nazwaikhsan/shopping-list.git
